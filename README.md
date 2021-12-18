@@ -1,4 +1,4 @@
-Color themes for the [lite text editor](https://github.com/rxi/lite)
+Color themes for the [lite-xl text editor](https://github.com/lite-xl/lite-xl), originally forked from the [lite colors repository](https://github.com/lite-xl/lite-xl-colors).
 
 *Note: if you make a pull request, the relevant table should be updated and kept
 in alphabetical order. The [`make_preview_image.lua`](make_preview_image.lua)

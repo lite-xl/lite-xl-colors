@@ -16,6 +16,7 @@ Theme | Preview
 [`dracula`](colors/dracula.lua?raw=1) | ![dracula_preview](previews/dracula.svg)
 [`duorand`](colors/duorand.lua?raw=1) | ![duorand_preview](previews/duorand.svg)
 [`duotone`](colors/duotone.lua?raw=1) | ![duotone_preview](previews/duotone.svg)
+[`github-dark-dimmed`](colors/github-dark-dimmed.lua?raw=1) | ![duotone_preview](previews/github-dark-dimmed.svg)
 [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1) | ![gruvbox_dark_preview](previews/gruvbox_dark.svg)
 [`liqube`](colors/liqube.lua?raw=1) | ![liqube_preview](previews/liqube.svg)
 [`mariana`](colors/mariana.lua?raw=1) | ![mariana_preview](previews/mariana.svg)

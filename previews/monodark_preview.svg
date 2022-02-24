@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="16" shape-rendering="crispEdges"> 
+<rect x="0.0" width="16.666666666667" height="16" fill="rgb(8, 8, 8)"></rect> 
+<rect x="16.666666666667" width="16.666666666667" height="16" fill="rgb(16, 16, 16)"></rect> 
+<rect x="33.333333333333" width="16.666666666667" height="16" fill="rgb(32, 32, 32)"></rect> 
+<rect x="50.0" width="16.666666666667" height="16" fill="rgb(36, 36, 36)"></rect> 
+<rect x="66.666666666667" width="16.666666666667" height="16" fill="rgb(37, 37, 37)"></rect> 
+<rect x="83.333333333333" width="16.666666666667" height="16" fill="rgb(48, 48, 48)"></rect> 
+<rect x="100.0" width="16.666666666667" height="16" fill="rgb(64, 64, 64)"></rect> 
+<rect x="116.66666666667" width="16.666666666667" height="16" fill="rgb(112, 112, 112)"></rect> 
+<rect x="133.33333333333" width="16.666666666667" height="16" fill="rgb(160, 160, 160)"></rect> 
+<rect x="150.0" width="16.666666666667" height="16" fill="rgb(208, 208, 208)"></rect> 
+<rect x="166.66666666667" width="16.666666666667" height="16" fill="rgb(240, 240, 240)"></rect> 
+<rect x="183.33333333333" width="16.666666666667" height="16" fill="rgb(255, 255, 255)"></rect> 
+</svg>

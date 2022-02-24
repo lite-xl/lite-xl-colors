@@ -37,7 +37,7 @@ local w = 200
 local h = 16
 local fp = io.open(name .. ".svg", "wb")
 
-fp:write('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="'..w..'" height="'..h..'"> \n')
+fp:write('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="'..w..'" height="'..h..'" shape-rendering="crispEdges"> \n')
 
 for i = 1, #colors do
   local width = w/#colors

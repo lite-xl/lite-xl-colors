@@ -1,7 +1,7 @@
 #!/usr/bin/lua
 
 local filename = ...
-local name = filename:match("([^\\/]+)%..*$") .. "_preview"
+local name = filename:match("([^\\/]+)%..*$")
 
 
 -- get colors

@@ -35,7 +35,7 @@ end
 --generate svg file
 local w = 200
 local h = 16
-local fp = io.open(name .. ".svg", "wb")
+local fp = io.open("previews/" .. name .. ".svg", "wb")
 
 fp:write('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="'..w..'" height="'..h..'" shape-rendering="crispEdges"> \n')
 

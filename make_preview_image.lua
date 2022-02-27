@@ -1,7 +1,7 @@
 #!/usr/bin/lua
 
 local filename = ...
-local name = filename:match("([^\\/]+)%..*$") .. "_preview"
+local name = filename:match("([^\\/]+)%..*$")
 
 
 -- get colors
@@ -32,30 +32,20 @@ for i = #colors, 1, -1 do
 end
 
 
--- generate ppm file
+--generate svg file
 local w = 200
 local h = 16
-local fp = io.open(name .. ".ppm", "wb")
-fp:write("P3\n")
-fp:write(w, " ", h, "\n")
-fp:write("255\n")
+local fp = io.open("previews/" .. name .. ".svg", "wb")
 
-local row = {}
-for i = 0, w - 1 do
-  local idx = math.floor((#colors / w) * i) + 1
-  local r, g, b = table.unpack(colors[idx])
-  table.insert(row, r)
-  table.insert(row, g)
-  table.insert(row, b)
-end
-row = table.concat(row, " ") .. "\n"
+fp:write('<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="'..w..'" height="'..h..'" shape-rendering="crispEdges"> \n')
 
-for i = 1, h do
-  fp:write(row)
+for i = 1, #colors do
+  local width = w/#colors
+  local r, g, b = table.unpack(colors[i])
+  local rect = '<rect x="'..(i-1)*width..'" width="'..width..'" height="'..h..'" fill="rgb('..r..', '..g..', '..b..')"></rect> \n'
+  fp:write(rect)
 end
+
+fp:write('</svg>')
 fp:close()
 
-
--- convert ppm file to png
-os.execute(string.format("convert %s.ppm %s.png", name, name))
-os.execute(string.format("rm %s.ppm", name))

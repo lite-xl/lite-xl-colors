@@ -27,6 +27,7 @@ Theme | Preview
 [`onedark`](colors/onedark.lua?raw=1) | ![onedark_preview](previews/onedark.svg)
 [`only_dark`](colors/only_dark.lua?raw=1) | ![only_dark_preview](previews/only_dark.svg)
 [`plasma`](colors/plasma.lua?raw=1) | ![plasma_preview](previews/plasma.svg)
+[`synthwave`](colors/synthwave.lua?raw=1) | ![synthwave_preview](previews/synthwave.svg)
 [`vscode-dark`](colors/vscode-dark.lua?raw=1) | ![vscode-dark_preview](previews/vscode-dark.svg)
 [`winter`](colors/winter.lua?raw=1) | ![winter_preview](previews/winter.svg)
 [`zenburn`](colors/zenburn.lua?raw=1) | ![zenburn_preview](previews/zenburn.svg)
@@ -40,4 +41,3 @@ Theme | Preview
 [`moe`](colors/moe.lua?raw=1) | ![moe_preview](previews/moe.svg)
 [`solarized_light`](colors/solarized_light.lua?raw=1) | ![solarized_light_preview](previews/solarized_light.svg)
 [`solarobj`](colors/solarobj.lua?raw=1) | ![solarobj_preview](previews/solarobj.svg)
-

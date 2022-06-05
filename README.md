@@ -11,6 +11,7 @@ embedded in the table.*
 
 Theme | Preview
 ------|-----------------------------------------
+[`betelgeuse`](colors/betelgeuse.lua?raw=1) | ![betelgeuse_preview](previews/betelgeuse.svg)
 [`cold_lime`](colors/cold_lime.lua?raw=1) | ![cold_lime_preview](previews/cold_lime.svg)
 [`c0mfy`](colors/c0mfy.lua?raw=1) | ![c0mfy_preview](previews/c0mfy.svg)
 [`dracula`](colors/dracula.lua?raw=1) | ![dracula_preview](previews/dracula.svg)

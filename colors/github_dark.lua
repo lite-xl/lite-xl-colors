@@ -23,7 +23,7 @@ style.selection = { common.color "#2e4c77" }
 style.line_number = fgdim
 style.line_number2 = fg
 style.line_highlight = {common.color "#1e202e"}
-style.scrol = fgdim
+style.scrollbar = fgdim
 style.scrollbar2 = fg
 
 style.syntax["normal"] = fg

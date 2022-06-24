@@ -1,4 +1,3 @@
-
 Color themes for the [Lite XL text editor](https://github.com/lite-xl/lite-xl), originally forked from the [lite colors repository](https://github.com/rxi/lite-colors).
 
 *Note: if you make a pull request, the relevant table should be updated and kept

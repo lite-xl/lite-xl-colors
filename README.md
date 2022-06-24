@@ -1,3 +1,4 @@
+
 Color themes for the [Lite XL text editor](https://github.com/lite-xl/lite-xl), originally forked from the [lite colors repository](https://github.com/rxi/lite-colors).
 
 *Note: if you make a pull request, the relevant table should be updated and kept
@@ -17,6 +18,7 @@ Theme | Preview
 [`dracula`](colors/dracula.lua?raw=1) | ![dracula_preview](previews/dracula.svg)
 [`duorand`](colors/duorand.lua?raw=1) | ![duorand_preview](previews/duorand.svg)
 [`duotone`](colors/duotone.lua?raw=1) | ![duotone_preview](previews/duotone.svg)
+[`github_dark`](colors/github_dark.lua?raw=1) | ![github_dark_preview](previews/github_dark.svg)
 [`github-dark-dimmed`](colors/github-dark-dimmed.lua?raw=1) | ![duotone_preview](previews/github-dark-dimmed.svg)
 [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1) | ![gruvbox_dark_preview](previews/gruvbox_dark.svg)
 [`jellybeans`](colors/jellybeans.lua?raw=1) | ![jellybeans_preview](previews/jellybeans.svg)

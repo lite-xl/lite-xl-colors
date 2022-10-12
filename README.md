@@ -1,4 +1,20 @@
+# Lite XL colors
+
 Color themes for the [Lite XL text editor](https://github.com/lite-xl/lite-xl), originally forked from the [lite colors repository](https://github.com/rxi/lite-colors).
+
+## How to install
+
+To install a color scheme, drop the `.lua` file directly into:
+
+*   Linux `~/.config/lite-xl/colors/`
+*   MacOS `~/.config/lite-xl/colors/`
+*   Windows `C:\Users\(username)\.config\lite-xl\colors\`
+
+Then, add a call to `core.reload_module` to your user module (the gear in the bottom left corner). As an example, if you installed the `github_dark.lua` file into your colors folder, you'd load it with:
+
+```lua
+core.reload_module("colors.github_dark")
+```
 
 *Note: if you make a pull request, the relevant table should be updated and kept
 in alphabetical order. The [`make_preview_image.lua`](make_preview_image.lua)

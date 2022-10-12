@@ -4,7 +4,7 @@ Color themes for the [Lite XL text editor](https://github.com/lite-xl/lite-xl), 
 
 ## How to install
 
-To install a color scheme, drop the .lua file directly into:
+To install a color scheme, drop the `.lua` file directly into:
 
 *   Linux `~/.config/lite-xl/colors/`
 *   MacOS `~/.config/lite-xl/colors/`

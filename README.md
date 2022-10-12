@@ -4,12 +4,11 @@ Color themes for the [Lite XL text editor](https://github.com/lite-xl/lite-xl), 
 
 ## How to install
 
-To install a color scheme:
+To install a color scheme, drop the .lua file directly into:
 
-* Drop the file directly into your user directory colors folder:
-    *   Linux `~/.config/lite-xl/colors/`
-    *   MacOS `~/.config/lite-xl/colors/`
-    *   Windows `C:\Users\(username)\.config\lite-xl\colors\`
+*   Linux `~/.config/lite-xl/colors/`
+*   MacOS `~/.config/lite-xl/colors/`
+*   Windows `C:\Users\(username)\.config\lite-xl\colors\`
 
 Then, add a call to `core.reload_module` to your user module (the gear in the bottom left corner). As an example, if you installed the `github_dark.lua` file into your colors folder, you'd load it with:
 

@@ -1,8 +1,8 @@
 local style = require "core.style"
 local common = require "core.common"
 
--- GitHubs style varies from language to language so its hard to get perfect
--- Originally written by thebirk, 2019
+-- Styles copied over from the VSCode JetBrains Fleet Plugin
+-- Hand done by none other than @AqilCont
 
 style.background = { common.color "#181818" }
 style.background2 = { common.color "#181818" }
@@ -32,30 +32,29 @@ style.syntax["operator"] = { common.color "#7fcdc0" }
 style.syntax["function"] = { common.color "#aaa0f7" }
 
 
+-- Tree Sitter Support
 local nicepink = { common.color "#f074b4" }
 local idk = { common.color "#af9cff" }
 local darkergray = { common.color "#bbbbbb" }
 local whoablue = { common.color "#87c3ff" }
 local syncols = {
-	["keyword.return"] = style.syntax["keyword"],
-	
-	["type"] = style.syntax["keyword2"],
-	["type.builtin"] = style.syntax["keyword"],
-	
-	["boolean"] = whoablue,
-	["parameter"] = darkergray,
-	["field"] = whoablue,
-	["declaration"] = nicepink,
-	-- ["variable"] = darkergray,
-	-- ["identifier"] = darkergray,
-	["constant"] = style.syntax["function"],
-	["include"] = style.syntax["keyword"],
-	["preproc"] = style.syntax["keyword"],
-	["storageclass"] = style.syntax["keyword"],
-	["repeat"] = style.syntax["keyword"],
-	["character"] = style.syntax["keyword"],
+  ["keyword.return"] = style.syntax["keyword"],
+  
+  ["type"] = style.syntax["keyword2"],
+  ["type.builtin"] = style.syntax["keyword"],
+  
+  ["boolean"] = whoablue,
+  ["parameter"] = darkergray,
+  ["field"] = whoablue,
+  ["declaration"] = nicepink,
+  ["constant"] = style.syntax["function"],
+  ["include"] = style.syntax["keyword"],
+  ["preproc"] = style.syntax["keyword"],
+  ["storageclass"] = style.syntax["keyword"],
+  ["repeat"] = style.syntax["keyword"],
+  ["character"] = style.syntax["keyword"],
 }
 
 for i,n in pairs(syncols) do
-	style.syntax[i] = n
+  style.syntax[i] = n
 end

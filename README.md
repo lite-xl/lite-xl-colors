@@ -37,6 +37,7 @@ Theme | Preview
 [`github-dark-dimmed`](colors/github-dark-dimmed.lua?raw=1) | ![duotone_preview](previews/github-dark-dimmed.svg)
 [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1) | ![gruvbox_dark_preview](previews/gruvbox_dark.svg)
 [`jellybeans`](colors/jellybeans.lua?raw=1) | ![jellybeans_preview](previews/jellybeans.svg)
+[`jetbrains fleet`](colors/vsc-jb-fleet-colors.lua?raw=1) | ![jetrbrains fleet_preview](previews/vsc-jb-fleet-colors.svg)
 [`liqube`](colors/liqube.lua?raw=1) | ![liqube_preview](previews/liqube.svg)
 [`mariana`](colors/mariana.lua?raw=1) | ![mariana_preview](previews/mariana.svg)
 [`monodark`](colors/monodark.lua?raw=1) | ![monodark_preview](previews/monodark.svg)

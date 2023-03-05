@@ -52,7 +52,7 @@ Theme | Preview
 [`vscode-dark`](colors/vscode-dark.lua?raw=1) | ![vscode-dark_preview](previews/vscode-dark.svg)
 [`winter`](colors/winter.lua?raw=1) | ![winter_preview](previews/winter.svg)
 [`zenburn`](colors/zenburn.lua?raw=1) | ![zenburn_preview](previews/zenburn.svg)
-
+[`everforest`](colors/everforest.lua?raw=1) | ![everforest_preview](previews/everforest.svg)
 ## Light
 
 Theme | Preview

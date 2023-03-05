@@ -33,6 +33,7 @@ Theme | Preview
 [`dracula`](colors/dracula.lua?raw=1) | ![dracula_preview](previews/dracula.svg)
 [`duorand`](colors/duorand.lua?raw=1) | ![duorand_preview](previews/duorand.svg)
 [`duotone`](colors/duotone.lua?raw=1) | ![duotone_preview](previews/duotone.svg)
+[`everforest`](colors/everforest.lua?raw=1) | ![everforest_preview](previews/everforest.svg)
 [`github_dark`](colors/github_dark.lua?raw=1) | ![github_dark_preview](previews/github_dark.svg)
 [`github-dark-dimmed`](colors/github-dark-dimmed.lua?raw=1) | ![duotone_preview](previews/github-dark-dimmed.svg)
 [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1) | ![gruvbox_dark_preview](previews/gruvbox_dark.svg)
@@ -52,7 +53,7 @@ Theme | Preview
 [`vscode-dark`](colors/vscode-dark.lua?raw=1) | ![vscode-dark_preview](previews/vscode-dark.svg)
 [`winter`](colors/winter.lua?raw=1) | ![winter_preview](previews/winter.svg)
 [`zenburn`](colors/zenburn.lua?raw=1) | ![zenburn_preview](previews/zenburn.svg)
-[`everforest`](colors/everforest.lua?raw=1) | ![everforest_preview](previews/everforest.svg)
+
 ## Light
 
 Theme | Preview

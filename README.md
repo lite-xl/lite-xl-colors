@@ -53,6 +53,8 @@ Theme | Preview
 [`vscode-dark`](colors/vscode-dark.lua?raw=1) | ![vscode-dark_preview](previews/vscode-dark.svg)
 [`winter`](colors/winter.lua?raw=1) | ![winter_preview](previews/winter.svg)
 [`zenburn`](colors/zenburn.lua?raw=1) | ![zenburn_preview](previews/zenburn.svg)
+[`rose-pine`](colors/rose-pine.lua?raw=1)| ![rose_pine_review](previews/rose-pine.svg)
+[`rose-pine-moon`](colors/rose-pine-moon.lua?raw=1)| ![rose_pine_review](previews/rose-pine-moon.svg)
 
 ## Light
 
@@ -63,3 +65,4 @@ Theme | Preview
 [`moe`](colors/moe.lua?raw=1) | ![moe_preview](previews/moe.svg)
 [`solarized_light`](colors/solarized_light.lua?raw=1) | ![solarized_light_preview](previews/solarized_light.svg)
 [`solarobj`](colors/solarobj.lua?raw=1) | ![solarobj_preview](previews/solarobj.svg)
+[`rose-pine-dawn`](colors/rose-pine-dawn.lua?raw=1)| ![rose_pine_review](previews/rose-pine-dawn.svg)

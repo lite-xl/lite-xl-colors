@@ -63,7 +63,7 @@ Theme | Preview
 [`github`](colors/github.lua?raw=1) | ![github_preview](previews/github.svg)
 [`gruvbox_light`](colors/gruvbox_light.lua?raw=1) | ![gruvbox_light_preview](previews/gruvbox_light.svg)
 [`moe`](colors/moe.lua?raw=1) | ![moe_preview](previews/moe.svg)
-[`solarized_light`](colors/solarized_light.lua?raw=1) | ![solarized_light_preview](previews/solarized_light.svg)
 [`rose-pine-dawn`](colors/rose-pine-dawn.lua?raw=1)| ![rose_pine_review](previews/rose-pine-dawn.svg)
+[`solarized_light`](colors/solarized_light.lua?raw=1) | ![solarized_light_preview](previews/solarized_light.svg)
 [`solarobj`](colors/solarobj.lua?raw=1) | ![solarobj_preview](previews/solarobj.svg)
 

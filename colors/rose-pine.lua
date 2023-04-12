@@ -56,9 +56,3 @@ style.syntax["literal"] = { common.color(rose_pine.gold) } -- true false nil
 style.syntax["string"] = { common.color(rose_pine.gold) }
 style.syntax["operator"] = { common.color(rose_pine.subtle) } -- = + - / < >
 style.syntax["function"] = { common.color(rose_pine.love) }
-
-style.log["INFO"] = { icon = "i", color = style.text }
-style.log["WARN"] = { icon = "!", color = style.warn }
-style.log["ERROR"] = { icon = "!", color = style.error }
-
-return style

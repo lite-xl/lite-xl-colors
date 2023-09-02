@@ -27,6 +27,8 @@ embedded in the table.*
 
 Theme | Preview
 ------|-----------------------------------------
+[`ayu-dark`](https://github.com/juliardi/lite-xl-ayu-theme/blob/main/colors/ayu-dark.lua?raw=1) | ![ayu-dark_preview](previews/ayu-dark.svg)
+[`ayu-mirage`](https://github.com/juliardi/lite-xl-ayu-theme/blob/main/colors/ayu-mirage.lua?raw=1) | ![ayu-mirage_preview](previews/ayu-mirage.svg)
 [`betelgeuse`](colors/betelgeuse.lua?raw=1) | ![betelgeuse_preview](previews/betelgeuse.svg)
 [`cold_lime`](colors/cold_lime.lua?raw=1) | ![cold_lime_preview](previews/cold_lime.svg)
 [`c0mfy`](colors/c0mfy.lua?raw=1) | ![c0mfy_preview](previews/c0mfy.svg)
@@ -60,6 +62,7 @@ Theme | Preview
 
 Theme | Preview
 ------|-----------------------------------------
+[`ayu-light`](https://github.com/juliardi/lite-xl-ayu-theme/blob/main/colors/ayu-light.lua?raw=1) | ![ayu-light_preview](previews/ayu-light.svg)
 [`github`](colors/github.lua?raw=1) | ![github_preview](previews/github.svg)
 [`gruvbox_light`](colors/gruvbox_light.lua?raw=1) | ![gruvbox_light_preview](previews/gruvbox_light.svg)
 [`moe`](colors/moe.lua?raw=1) | ![moe_preview](previews/moe.svg)

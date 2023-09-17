@@ -14,7 +14,7 @@ jobs:
           wget https://github.com/lite-xl/lite-xl-plugin-manager/releases/download/latest/lpm.x86_64-linux -O lpm && chmod +x lpm
           # Unstub all stubs so we can make proper previews.
           ./lpm --userdir . init . && ./lpm --userdir . color install "*" && ./lpm purge --userdir .
-          ./lpm exec scripts/make_preview_image.lua
+          ./lpm exec scripts/make_preview_image.lua colors/*
           perl -pi -e 'exit(0) if $_ =~ m/^\-\-\-/' README.md
           echo "---" >> README.md
           echo -e "\n## Dark\n" >> README.md

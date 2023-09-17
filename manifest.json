@@ -1,0 +1,410 @@
+{
+   "addons" : [
+      {
+         "id": "ayu-dark",
+         "remote": "https://github.com/juliardi/lite-xl-ayu-theme.git:33a514527d4870480554771c273e667eb6418873",
+         "tags": [
+            "dark"
+         ]
+      },
+      {
+         "id": "ayu-light",
+         "remote": "https://github.com/juliardi/lite-xl-ayu-theme.git:33a514527d4870480554771c273e667eb6418873",
+         "tags": [
+            "light"
+         ]
+      },
+      {
+         "id": "ayu-mirage",
+         "remote": "https://github.com/juliardi/lite-xl-ayu-theme.git:33a514527d4870480554771c273e667eb6418873",
+         "tags": [
+            "dark"
+         ]
+      },
+      {
+         "id" : "abyss",
+         "mod_version" : "3.0.0",
+         "name" : "abyss",
+         "path" : "colors/abyss.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "betelgeuse",
+         "mod_version" : "3.0.0",
+         "name" : "betelgeuse",
+         "path" : "colors/betelgeuse.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "c0mfy",
+         "mod_version" : "3.0.0",
+         "name" : "c0mfy",
+         "path" : "colors/c0mfy.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "cold_lime",
+         "mod_version" : "3.0.0",
+         "name" : "cold_lime",
+         "path" : "colors/cold_lime.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "dracula",
+         "mod_version" : "3.0.0",
+         "name" : "dracula",
+         "path" : "colors/dracula.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "duorand",
+         "mod_version" : "3.0.0",
+         "name" : "duorand",
+         "path" : "colors/duorand.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "duotone",
+         "mod_version" : "3.0.0",
+         "name" : "duotone",
+         "path" : "colors/duotone.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "everforest",
+         "mod_version" : "3.0.0",
+         "name" : "everforest",
+         "path" : "colors/everforest.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "github",
+         "mod_version" : "3.0.0",
+         "name" : "github",
+         "path" : "colors/github.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "github-dark-dimmed",
+         "mod_version" : "3.0.0",
+         "name" : "github-dark-dimmed",
+         "path" : "colors/github-dark-dimmed.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "github_dark",
+         "mod_version" : "3.0.0",
+         "name" : "github_dark",
+         "path" : "colors/github_dark.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "gruvbox_dark",
+         "mod_version" : "3.0.0",
+         "name" : "gruvbox_dark",
+         "path" : "colors/gruvbox_dark.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "gruvbox_light",
+         "mod_version" : "3.0.0",
+         "name" : "gruvbox_light",
+         "path" : "colors/gruvbox_light.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "jb-fleet",
+         "mod_version" : "3.0.0",
+         "name" : "jb-fleet",
+         "path" : "colors/jb-fleet.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "jellybeans",
+         "mod_version" : "3.0.0",
+         "name" : "jellybeans",
+         "path" : "colors/jellybeans.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "liqube",
+         "mod_version" : "3.0.0",
+         "name" : "liqube",
+         "path" : "colors/liqube.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "mariana",
+         "mod_version" : "3.0.0",
+         "name" : "mariana",
+         "path" : "colors/mariana.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "moe",
+         "mod_version" : "3.0.0",
+         "name" : "moe",
+         "path" : "colors/moe.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "monodark",
+         "mod_version" : "3.0.0",
+         "name" : "monodark",
+         "path" : "colors/monodark.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "monokai",
+         "mod_version" : "3.0.0",
+         "name" : "monokai",
+         "path" : "colors/monokai.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "monokai-pro-classic",
+         "mod_version" : "3.0.0",
+         "name" : "monokai-pro-classic",
+         "path" : "colors/monokai-pro-classic.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "nord",
+         "mod_version" : "3.0.0",
+         "name" : "nord",
+         "path" : "colors/nord.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "onedark",
+         "mod_version" : "3.0.0",
+         "name" : "onedark",
+         "path" : "colors/onedark.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "only_dark",
+         "mod_version" : "3.0.0",
+         "name" : "only_dark",
+         "path" : "colors/only_dark.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "plasma",
+         "mod_version" : "3.0.0",
+         "name" : "plasma",
+         "path" : "colors/plasma.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "rose-pine",
+         "mod_version" : "3.0.0",
+         "name" : "rose-pine",
+         "path" : "colors/rose-pine.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "rose-pine-dawn",
+         "mod_version" : "3.0.0",
+         "name" : "rose-pine-dawn",
+         "path" : "colors/rose-pine-dawn.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "rose-pine-moon",
+         "mod_version" : "3.0.0",
+         "name" : "rose-pine-moon",
+         "path" : "colors/rose-pine-moon.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "solarized_light",
+         "mod_version" : "3.0.0",
+         "name" : "solarized_light",
+         "path" : "colors/solarized_light.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "solarobj",
+         "mod_version" : "3.0.0",
+         "name" : "solarobj",
+         "path" : "colors/solarobj.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "synthwave",
+         "mod_version" : "3.0.0",
+         "name" : "synthwave",
+         "path" : "colors/synthwave.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "tokyo-night",
+         "mod_version" : "3.0.0",
+         "name" : "tokyo-night",
+         "path" : "colors/tokyo-night.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "vscode-dark",
+         "mod_version" : "3.0.0",
+         "name" : "vscode-dark",
+         "path" : "colors/vscode-dark.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "winter",
+         "mod_version" : "3.0.0",
+         "name" : "winter",
+         "path" : "colors/winter.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "zenburn",
+         "mod_version" : "3.0.0",
+         "name" : "zenburn",
+         "path" : "colors/zenburn.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      }
+   ]
+}

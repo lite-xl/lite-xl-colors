@@ -50,6 +50,7 @@ Theme | Preview
 [`plasma`](colors/plasma.lua?raw=1) | ![plasma_preview](previews/plasma.svg)
 [`rose-pine-moon`](colors/rose-pine-moon.lua?raw=1)| ![rose_pine_review](previews/rose-pine-moon.svg)
 [`rose-pine`](colors/rose-pine.lua?raw=1)| ![rose_pine_review](previews/rose-pine.svg)
+[`solarized_dark`](colors/solarized_dark.lua?raw=1) | ![solarized_dark_preview](previews/solarized_dark.svg)
 [`synthwave`](colors/synthwave.lua?raw=1) | ![synthwave_preview](previews/synthwave.svg)
 [`tokyo-night`](colors/tokyo-night.lua?raw=1) | ![tokyo-night_preview](previews/tokyo-night.svg)
 [`vscode-dark`](colors/vscode-dark.lua?raw=1) | ![vscode-dark_preview](previews/vscode-dark.svg)

@@ -1,0 +1,34 @@
+name: Update README
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  reorganize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate table with `lpm`
+        run: |
+          wget https://github.com/lite-xl/lite-xl-plugin-manager/releases/download/latest/lpm.x86_64-linux -O lpm && chmod +x lpm
+          # Unstub all stubs so we can make proper previews.
+          ./lpm --userdir . init . && ./lpm --userdir . color install "*" && ./lpm purge --userdir .
+          ./lpm exec scripts/make_preview_image.lua
+          perl -pi -e 'exit(0) if $_ =~ m/^\-\-\-/' README.md
+          echo "---" >> README.md
+          echo -e "\n## Dark\n" >> README.md
+          echo "| Theme                                                         | Preview" >> README.md
+          echo "| :------------------------------------------------------------ | :----------------------------------------------------" >> README.md
+          ./lpm table manifest.json --type color --tag "dark" | tail -n +3 | perl -pe '($w) = $_ =~ m/`([^`]+)`/; $_ =~ s/$/ \!\[$w\_preview\](previews\/$w.svg)/ if $w' >> README.md
+          echo -e "\n## Light\n" >> README.md
+          echo "| Theme                                                         | Preview" >> README.md
+          echo "| :------------------------------------------------------------ | :----------------------------------------------------" >> README.md
+          ./lpm table manifest.json --type color --tag "light" | tail -n +3  | perl -pe '($w) = $_ =~ m/`([^`]+)`/; $_ =~ s/$/ \!\[$w\_preview\](previews\/$w.svg)/ if $w' >> README.md
+          if ! git diff --exit-code -s README.md; then
+            git config --global user.name "Github Actions" && git config --global user.email "<>"
+            git add README.md previews
+            git commit -m '[CI] Updated README.md.'
+            git push
+          fi
+

@@ -113,6 +113,28 @@
          "version" : "0.1"
       },
       {
+         "id" : "flexoki-dark",
+         "mod_version" : "3.0.0",
+         "name" : "flexoki-dark",
+         "path" : "colors/flexoki_dark.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "flexoki-light",
+         "mod_version" : "3.0.0",
+         "name" : "flexoki-light",
+         "path" : "colors/flexoki_light.lua",
+         "tags" : [
+            "light"
+         ],
+	 "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "github",
          "mod_version" : "3.0.0",
          "name" : "github",

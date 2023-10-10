@@ -51,6 +51,7 @@ do not bother modifying it.*
 | [`monodark`](colors/monodark.lua?raw=1)                             | ![monodark_preview](previews/monodark.svg)                       |
 | [`monokai`](colors/monokai.lua?raw=1)                               | ![monokai_preview](previews/monokai.svg)                         |
 | [`monokai-pro-classic`](colors/monokai-pro-classic.lua?raw=1)       | ![monokai-pro-classic_preview](previews/monokai-pro-classic.svg) |
+| [`monokai-sublime`](colors/monokai-sublime.lua?raw=1)               | ![monokai-sublime_preview](previews/monokai-sublime.svg)         |
 | [`nord`](colors/nord.lua?raw=1)                                     | ![nord_preview](previews/nord.svg)                               |
 | [`onedark`](colors/onedark.lua?raw=1)                               | ![onedark_preview](previews/onedark.svg)                         |
 | [`only_dark`](colors/only_dark.lua?raw=1)                           | ![only_dark_preview](previews/only_dark.svg)                     |

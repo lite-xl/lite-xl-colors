@@ -10,11 +10,21 @@ To install a color scheme, drop the `.lua` file directly into:
 * MacOS `~/.config/lite-xl/colors/`
 * Windows `C:\Users\(username)\.config\lite-xl\colors\`
 
+You can also use [`lpm`](https://github.com/lite-xl/lite-xl-plugin-manager) to install any of the below themes.
+
+```
+lpm install everforest
+```
+
 Then, add a call to `core.reload_module` to your user module (the gear in the bottom left corner). As an example, if you installed the `github_dark.lua` file into your colors folder, you'd load it with:
 
 ```lua
 core.reload_module("colors.github_dark")
 ```
+
+### Base16 Themes
+
+`@SmileYzn` has created a theme manager for base16 themes as a plugin. Please see [here](https://github.com/SmileYzn/base16), if you'd like to install a base16 theme.
 
 *Note: if you make a pull request, please update the manifest.json.
 The below table will be automatically updated as part of CI; please

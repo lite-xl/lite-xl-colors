@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="16" shape-rendering="crispEdges"> 
 <rect x="0.0" width="12.5" height="16" fill="rgb(24, 25, 21)"></rect> 
-<rect x="12.5" width="12.5" height="16" fill="rgb(27, 28, 23)"></rect> 
-<rect x="25.0" width="12.5" height="16" fill="rgb(40, 41, 35)"></rect> 
-<rect x="37.5" width="12.5" height="16" fill="rgb(58, 58, 50)"></rect> 
-<rect x="50.0" width="12.5" height="16" fill="rgb(61, 61, 56)"></rect> 
-<rect x="62.5" width="12.5" height="16" fill="rgb(94, 96, 82)"></rect> 
-<rect x="75.0" width="12.5" height="16" fill="rgb(99, 99, 95)"></rect> 
-<rect x="87.5" width="12.5" height="16" fill="rgb(117, 113, 94)"></rect> 
-<rect x="100.0" width="12.5" height="16" fill="rgb(249, 36, 114)"></rect> 
-<rect x="112.5" width="12.5" height="16" fill="rgb(144, 145, 139)"></rect> 
+<rect x="12.5" width="12.5" height="16" fill="rgb(39, 40, 34)"></rect> 
+<rect x="25.0" width="12.5" height="16" fill="rgb(73, 72, 62)"></rect> 
+<rect x="37.5" width="12.5" height="16" fill="rgb(83, 83, 79)"></rect> 
+<rect x="50.0" width="12.5" height="16" fill="rgb(94, 96, 82)"></rect> 
+<rect x="62.5" width="12.5" height="16" fill="rgb(117, 113, 94)"></rect> 
+<rect x="75.0" width="12.5" height="16" fill="rgb(249, 36, 114)"></rect> 
+<rect x="87.5" width="12.5" height="16" fill="rgb(249, 38, 114)"></rect> 
+<rect x="100.0" width="12.5" height="16" fill="rgb(144, 145, 139)"></rect> 
+<rect x="112.5" width="12.5" height="16" fill="rgb(166, 226, 46)"></rect> 
 <rect x="125.0" width="12.5" height="16" fill="rgb(158, 161, 145)"></rect> 
-<rect x="137.5" width="12.5" height="16" fill="rgb(92, 213, 239)"></rect> 
-<rect x="150.0" width="12.5" height="16" fill="rgb(172, 128, 255)"></rect> 
-<rect x="162.5" width="12.5" height="16" fill="rgb(231, 219, 116)"></rect> 
-<rect x="175.0" width="12.5" height="16" fill="rgb(210, 208, 198)"></rect> 
+<rect x="137.5" width="12.5" height="16" fill="rgb(174, 129, 255)"></rect> 
+<rect x="150.0" width="12.5" height="16" fill="rgb(230, 219, 116)"></rect> 
+<rect x="162.5" width="12.5" height="16" fill="rgb(210, 208, 198)"></rect> 
+<rect x="175.0" width="12.5" height="16" fill="rgb(248, 248, 240)"></rect> 
 <rect x="187.5" width="12.5" height="16" fill="rgb(248, 248, 242)"></rect> 
 </svg>

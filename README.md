@@ -34,7 +34,7 @@ embedded in the table.*
 | [`duorand`](colors/duorand.lua?raw=1)                         | ![duorand_preview](previews/duorand.svg)                         |
 | [`duotone`](colors/duotone.lua?raw=1)                         | ![duotone_preview](previews/duotone.svg)                         |
 | [`everforest`](colors/everforest.lua?raw=1)                   | ![everforest_preview](previews/everforest.svg)                   |
-| [`flexoki_dark`](color/flexoki_dark.lua?raw=1)                | ![flexoki_dark_preview](previews/flexoki_dark.svg)               |
+| [`flexoki_dark`](colors/flexoki_dark.lua?raw=1)               | ![flexoki_dark_preview](previews/flexoki_dark.svg)               |
 | [`github_dark`](colors/github_dark.lua?raw=1)                 | ![github_dark_preview](previews/github_dark.svg)                 |
 | [`github-dark-dimmed`](colors/github-dark-dimmed.lua?raw=1)   | ![duotone_preview](previews/github-dark-dimmed.svg)              |
 | [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1)               | ![gruvbox_dark_preview](previews/gruvbox_dark.svg)               |

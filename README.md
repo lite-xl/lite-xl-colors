@@ -41,6 +41,7 @@ do not bother modifying it.*
 | [`duorand`](colors/duorand.lua?raw=1)                               | ![duorand_preview](previews/duorand.svg)                         |
 | [`duotone`](colors/duotone.lua?raw=1)                               | ![duotone_preview](previews/duotone.svg)                         |
 | [`everforest`](colors/everforest.lua?raw=1)                         | ![everforest_preview](previews/everforest.svg)                   |
+| [`flexoki_dark`](colors/flexoki_dark.lua?raw=1)                     | ![flexoki_dark_preview](previews/flexoki_dark.svg)               |
 | [`github-dark-dimmed`](colors/github-dark-dimmed.lua?raw=1)         | ![github-dark-dimmed_preview](previews/github-dark-dimmed.svg)   |
 | [`github_dark`](colors/github_dark.lua?raw=1)                       | ![github_dark_preview](previews/github_dark.svg)                 |
 | [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1)                     | ![gruvbox_dark_preview](previews/gruvbox_dark.svg)               |
@@ -69,6 +70,7 @@ do not bother modifying it.*
 | Theme                                                              | Preview                                                  |
 | ------------------------------------------------------------------ | -------------------------------------------------------- |
 | [`ayu-light`](https://github.com/juliardi/lite-xl-ayu-theme.git)\* | ![ayu-light_preview](previews/ayu-light.svg)             |
+| [`flexoki_light`](colors/flexoki_light.lua?raw=1)                  | ![flexoki_light_preview](previews/flexoki_light.svg)     |
 | [`github`](colors/github.lua?raw=1)                                | ![github_preview](previews/github.svg)                   |
 | [`gruvbox_light`](colors/gruvbox_light.lua?raw=1)                  | ![gruvbox_light_preview](previews/gruvbox_light.svg)     |
 | [`moe`](colors/moe.lua?raw=1)                                      | ![moe_preview](previews/moe.svg)                         |

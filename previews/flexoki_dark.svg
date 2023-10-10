@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="16" shape-rendering="crispEdges"> 
-<rect x="0" width="11.764705882353" height="16" fill="rgb(16, 15, 15)"></rect> 
+<rect x="0.0" width="11.764705882353" height="16" fill="rgb(16, 15, 15)"></rect> 
 <rect x="11.764705882353" width="11.764705882353" height="16" fill="rgb(28, 27, 26)"></rect> 
 <rect x="23.529411764706" width="11.764705882353" height="16" fill="rgb(40, 39, 38)"></rect> 
 <rect x="35.294117647059" width="11.764705882353" height="16" fill="rgb(52, 51, 49)"></rect> 

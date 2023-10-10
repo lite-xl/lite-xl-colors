@@ -113,9 +113,9 @@
          "version" : "0.1"
       },
       {
-         "id" : "flexoki-dark",
+         "id" : "flexoki_dark",
          "mod_version" : "3.0.0",
-         "name" : "flexoki-dark",
+         "name" : "flexoki_dark",
          "path" : "colors/flexoki_dark.lua",
          "tags" : [
             "dark"
@@ -124,9 +124,9 @@
          "version" : "0.1"
       },
       {
-         "id" : "flexoki-light",
+         "id" : "flexoki_light",
          "mod_version" : "3.0.0",
-         "name" : "flexoki-light",
+         "name" : "flexoki_light",
          "path" : "colors/flexoki_light.lua",
          "tags" : [
             "light"

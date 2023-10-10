@@ -245,6 +245,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "monokai-sublime",
+         "mod_version" : "3.0.0",
+         "name" : "monokai-sublime",
+         "path" : "colors/monokai-sublime.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "monokai-pro-classic",
          "mod_version" : "3.0.0",
          "name" : "monokai-pro-classic",

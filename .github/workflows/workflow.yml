@@ -11,17 +11,17 @@ jobs:
       - uses: actions/checkout@v2
       - name: Generate table with `lpm`
         run: |
-          wget https://github.com/lite-xl/lite-xl-plugin-manager/releases/download/latest/lpm.x86_64-linux -O lpm && chmod +x lpm
+          wget https://github.com/lite-xl/lite-xl-plugin-manager/releases/download/latest/lpm.x86_64-linux -O lpm-latest && chmod +x lpm-latest
           # Unstub all stubs so we can make proper previews.
-          ./lpm --userdir . init . && ./lpm --userdir . color install "*" && ./lpm purge --userdir .
-          ./lpm exec scripts/make_preview_image.lua colors/*
+          ./lpm-latest --userdir . init . && ./lpm-latest --userdir . color install "*" && ./lpm-latest purge --userdir .
+          ./lpm-latest exec scripts/make_preview_image.lua colors/*
           # Remove everything after the --- so we can regenerate it.
           perl -pi -e 'exit(0) if $_ =~ m/^\-\-\-/' README.md
           echo "---" >> README.md
           echo -e "\n## Dark\n" >> README.md
-          ./lpm list --repository . --type color --tag "dark" --table 'url,{string.format("![%s_preview](previews/%s.svg)", addon.id,addon.id)}' --type color --header Theme,Preview >> README.md
+          ./lpm-latest list --repository . --type color --tag "dark" --table 'url,{string.format("![%s_preview](previews/%s.svg)", addon.id,addon.id)}' --type color --header Theme,Preview >> README.md
           echo -e "\n## Light\n" >> README.md
-          ./lpm list --repository . --type color --tag "light" --table 'url,{string.format("![%s_preview](previews/%s.svg)", addon.id,addon.id)}' --type color --header Theme,Preview >> README.md
+          ./lpm-latest list --repository . --type color --tag "light" --table 'url,{string.format("![%s_preview](previews/%s.svg)", addon.id,addon.id)}' --type color --header Theme,Preview >> README.md
           if ! git diff --exit-code -s README.md; then
             git config --global user.name "Github Actions" && git config --global user.email "<>"
             git add README.md previews

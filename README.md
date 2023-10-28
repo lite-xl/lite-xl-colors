@@ -46,9 +46,9 @@ do not bother modifying it.*
 | [`ayu-mirage`](https://github.com/juliardi/lite-xl-ayu-theme.git)\* | ![ayu-mirage_preview](previews/ayu-mirage.svg)                     |
 | [`betelgeuse`](colors/betelgeuse.lua?raw=1)                         | ![betelgeuse_preview](previews/betelgeuse.svg)                     |
 | [`c0mfy`](colors/c0mfy.lua?raw=1)                                   | ![c0mfy_preview](previews/c0mfy.svg)                               |
-| [`zenburn`](colors/catppuccin-frappe.lua?raw=1)                     | ![catppuccin-frappe_preview](previews/catppuccin-frappe.svg)       |
-| [`zenburn`](colors/catppuccin-macchiato.lua?raw=1)                  | ![catppuccin-macchiato_preview](previews/catppuccin-macchiato.svg) |
-| [`zenburn`](colors/catppuccin-mocha.lua?raw=1)                      | ![catppuccin-mocha_preview](previews/catppuccin-mocha.svg)         |
+| [`catppuccin-frappe`](colors/catppuccin-frappe.lua?raw=1)           | ![catppuccin-frappe_preview](previews/catppuccin-frappe.svg)       |
+| [`catppuccin-macchiato`](colors/catppuccin-macchiato.lua?raw=1)     | ![catppuccin-macchiato_preview](previews/catppuccin-macchiato.svg) |
+| [`catppuccin-mocha`](colors/catppuccin-mocha.lua?raw=1)             | ![catppuccin-mocha_preview](previews/catppuccin-mocha.svg)         |
 | [`cold_lime`](colors/cold_lime.lua?raw=1)                           | ![cold_lime_preview](previews/cold_lime.svg)                       |
 | [`dracula`](colors/dracula.lua?raw=1)                               | ![dracula_preview](previews/dracula.svg)                           |
 | [`duorand`](colors/duorand.lua?raw=1)                               | ![duorand_preview](previews/duorand.svg)                           |
@@ -83,7 +83,7 @@ do not bother modifying it.*
 | Theme                                                              | Preview                                                    |
 | ------------------------------------------------------------------ | ---------------------------------------------------------- |
 | [`ayu-light`](https://github.com/juliardi/lite-xl-ayu-theme.git)\* | ![ayu-light_preview](previews/ayu-light.svg)               |
-| [`zenburn`](colors/catppuccin-latte.lua?raw=1)                     | ![catppuccin-latte_preview](previews/catppuccin-latte.svg) |
+| [`catppuccin-latte`](colors/catppuccin-latte.lua?raw=1)            | ![catppuccin-latte_preview](previews/catppuccin-latte.svg) |
 | [`flexoki_light`](colors/flexoki_light.lua?raw=1)                  | ![flexoki_light_preview](previews/flexoki_light.svg)       |
 | [`github`](colors/github.lua?raw=1)                                | ![github_preview](previews/github.svg)                     |
 | [`gruvbox_light`](colors/gruvbox_light.lua?raw=1)                  | ![gruvbox_light_preview](previews/gruvbox_light.svg)       |

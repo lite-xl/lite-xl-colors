@@ -57,7 +57,7 @@
          "type" : "color",
          "version" : "0.1"
       },
-	         {
+      {
          "id" : "catppuccin-frappe",
          "mod_version" : "3.0.0",
          "name" : "zenburn",
@@ -68,7 +68,7 @@
          "type" : "color",
          "version" : "0.1"
       },
-	         {
+      {
          "id" : "catppuccin-latte",
          "mod_version" : "3.0.0",
          "name" : "zenburn",
@@ -79,7 +79,7 @@
          "type" : "color",
          "version" : "0.1"
       },
-	         {
+      {
          "id" : "catppuccin-macchiato",
          "mod_version" : "3.0.0",
          "name" : "zenburn",
@@ -90,7 +90,7 @@
          "type" : "color",
          "version" : "0.1"
       },
-	         {
+      {
          "id" : "catppuccin-mocha",
          "mod_version" : "3.0.0",
          "name" : "zenburn",

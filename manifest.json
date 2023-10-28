@@ -60,7 +60,7 @@
       {
          "id" : "catppuccin-frappe",
          "mod_version" : "3.0.0",
-         "name" : "zenburn",
+         "name" : "catppuccin-frappe",
          "path" : "colors/catppuccin-frappe.lua",
          "tags" : [
             "dark"
@@ -71,7 +71,7 @@
       {
          "id" : "catppuccin-latte",
          "mod_version" : "3.0.0",
-         "name" : "zenburn",
+         "name" : "catppuccin-latte",
          "path" : "colors/catppuccin-latte.lua",
          "tags" : [
             "light"
@@ -82,7 +82,7 @@
       {
          "id" : "catppuccin-macchiato",
          "mod_version" : "3.0.0",
-         "name" : "zenburn",
+         "name" : "catppuccin-macchiato",
          "path" : "colors/catppuccin-macchiato.lua",
          "tags" : [
             "dark"
@@ -93,7 +93,7 @@
       {
          "id" : "catppuccin-mocha",
          "mod_version" : "3.0.0",
-         "name" : "zenburn",
+         "name" : "catppuccin-mocha",
          "path" : "colors/catppuccin-mocha.lua",
          "tags" : [
             "dark"

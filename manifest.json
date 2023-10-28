@@ -57,6 +57,50 @@
          "type" : "color",
          "version" : "0.1"
       },
+	         {
+         "id" : "catppuccin-frappe",
+         "mod_version" : "3.0.0",
+         "name" : "zenburn",
+         "path" : "colors/catppuccin-frappe.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+	         {
+         "id" : "catppuccin-latte",
+         "mod_version" : "3.0.0",
+         "name" : "zenburn",
+         "path" : "colors/catppuccin-latte.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+	         {
+         "id" : "catppuccin-macchiato",
+         "mod_version" : "3.0.0",
+         "name" : "zenburn",
+         "path" : "colors/catppuccin-macchiato.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+	         {
+         "id" : "catppuccin-mocha",
+         "mod_version" : "3.0.0",
+         "name" : "zenburn",
+         "path" : "colors/catppuccin-mocha.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
       {
          "id" : "cold_lime",
          "mod_version" : "3.0.0",
@@ -436,50 +480,6 @@
          "mod_version" : "3.0.0",
          "name" : "zenburn",
          "path" : "colors/zenburn.lua",
-         "tags" : [
-            "dark"
-         ],
-         "type" : "color",
-         "version" : "0.1"
-      }
-	         {
-         "id" : "catppuccin-frappe",
-         "mod_version" : "3.0.0",
-         "name" : "zenburn",
-         "path" : "colors/catppuccin-frappe.lua",
-         "tags" : [
-            "dark"
-         ],
-         "type" : "color",
-         "version" : "0.1"
-      }
-	         {
-         "id" : "catppuccin-latte",
-         "mod_version" : "3.0.0",
-         "name" : "zenburn",
-         "path" : "colors/catppuccin-latte.lua",
-         "tags" : [
-            "light"
-         ],
-         "type" : "color",
-         "version" : "0.1"
-      }
-	         {
-         "id" : "catppuccin-macchiato",
-         "mod_version" : "3.0.0",
-         "name" : "zenburn",
-         "path" : "colors/catppuccin-macchiato.lua",
-         "tags" : [
-            "dark"
-         ],
-         "type" : "color",
-         "version" : "0.1"
-      }
-	         {
-         "id" : "catppuccin-mocha",
-         "mod_version" : "3.0.0",
-         "name" : "zenburn",
-         "path" : "colors/catppuccin-mocha.lua",
          "tags" : [
             "dark"
          ],

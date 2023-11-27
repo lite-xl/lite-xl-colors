@@ -410,6 +410,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "solarized_dark",
+         "mod_version" : "3.0.0",
+         "name" : "solarized_dark",
+         "path" : "colors/solarized_dark.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "solarized_light",
          "mod_version" : "3.0.0",
          "name" : "solarized_light",

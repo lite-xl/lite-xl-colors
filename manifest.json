@@ -377,6 +377,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "predawn",
+         "mod_version" : "3.0.0",
+         "name" : "predawn",
+         "path" : "colors/predawn.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "rose-pine",
          "mod_version" : "3.0.0",
          "name" : "rose-pine",

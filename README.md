@@ -70,6 +70,7 @@ do not bother modifying it.*
 | [`onedark`](colors/onedark.lua?raw=1)                               | ![onedark_preview](previews/onedark.svg)                           |
 | [`only_dark`](colors/only_dark.lua?raw=1)                           | ![only_dark_preview](previews/only_dark.svg)                       |
 | [`plasma`](colors/plasma.lua?raw=1)                                 | ![plasma_preview](previews/plasma.svg)                             |
+| [`predawn`](colors/predawn.lua?raw=1)                               | ![predawn_preview](previews/predawn.svg)                           |
 | [`rose-pine`](colors/rose-pine.lua?raw=1)                           | ![rose-pine_preview](previews/rose-pine.svg)                       |
 | [`rose-pine-moon`](colors/rose-pine-moon.lua?raw=1)                 | ![rose-pine-moon_preview](previews/rose-pine-moon.svg)             |
 | [`solarized_dark`](colors/solarized_dark.lua?raw=1)                 | ![solarized_dark_preview](previews/solarized_dark.svg)             |

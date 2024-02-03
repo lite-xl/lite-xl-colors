@@ -507,6 +507,17 @@
          ],
          "type" : "color",
          "version" : "0.1"
+      },
+      {
+         "id" : "bearded-theme-vivid-black",
+         "mod_version" : "3.0.0",
+         "name" : "Bearded Theme Vivid Black",
+         "path" : "colors/bearded-theme-vivid-black.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
       }
    ]
 }

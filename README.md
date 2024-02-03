@@ -39,46 +39,47 @@ do not bother modifying it.*
 
 ## Dark
 
-| Theme                                                               | Preview                                                            |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [`abyss`](colors/abyss.lua?raw=1)                                   | ![abyss_preview](previews/abyss.svg)                               |
-| [`ayu-dark`](https://github.com/juliardi/lite-xl-ayu-theme.git)\*   | ![ayu-dark_preview](previews/ayu-dark.svg)                         |
-| [`ayu-mirage`](https://github.com/juliardi/lite-xl-ayu-theme.git)\* | ![ayu-mirage_preview](previews/ayu-mirage.svg)                     |
-| [`betelgeuse`](colors/betelgeuse.lua?raw=1)                         | ![betelgeuse_preview](previews/betelgeuse.svg)                     |
-| [`c0mfy`](colors/c0mfy.lua?raw=1)                                   | ![c0mfy_preview](previews/c0mfy.svg)                               |
-| [`catppuccin-frappe`](colors/catppuccin-frappe.lua?raw=1)           | ![catppuccin-frappe_preview](previews/catppuccin-frappe.svg)       |
-| [`catppuccin-macchiato`](colors/catppuccin-macchiato.lua?raw=1)     | ![catppuccin-macchiato_preview](previews/catppuccin-macchiato.svg) |
-| [`catppuccin-mocha`](colors/catppuccin-mocha.lua?raw=1)             | ![catppuccin-mocha_preview](previews/catppuccin-mocha.svg)         |
-| [`cold_lime`](colors/cold_lime.lua?raw=1)                           | ![cold_lime_preview](previews/cold_lime.svg)                       |
-| [`dracula`](colors/dracula.lua?raw=1)                               | ![dracula_preview](previews/dracula.svg)                           |
-| [`duorand`](colors/duorand.lua?raw=1)                               | ![duorand_preview](previews/duorand.svg)                           |
-| [`duotone`](colors/duotone.lua?raw=1)                               | ![duotone_preview](previews/duotone.svg)                           |
-| [`everforest`](colors/everforest.lua?raw=1)                         | ![everforest_preview](previews/everforest.svg)                     |
-| [`flexoki_dark`](colors/flexoki_dark.lua?raw=1)                     | ![flexoki_dark_preview](previews/flexoki_dark.svg)                 |
-| [`github-dark-dimmed`](colors/github-dark-dimmed.lua?raw=1)         | ![github-dark-dimmed_preview](previews/github-dark-dimmed.svg)     |
-| [`github_dark`](colors/github_dark.lua?raw=1)                       | ![github_dark_preview](previews/github_dark.svg)                   |
-| [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1)                     | ![gruvbox_dark_preview](previews/gruvbox_dark.svg)                 |
-| [`jb-fleet`](colors/jb-fleet.lua?raw=1)                             | ![jb-fleet_preview](previews/jb-fleet.svg)                         |
-| [`jellybeans`](colors/jellybeans.lua?raw=1)                         | ![jellybeans_preview](previews/jellybeans.svg)                     |
-| [`liqube`](colors/liqube.lua?raw=1)                                 | ![liqube_preview](previews/liqube.svg)                             |
-| [`mariana`](colors/mariana.lua?raw=1)                               | ![mariana_preview](previews/mariana.svg)                           |
-| [`monodark`](colors/monodark.lua?raw=1)                             | ![monodark_preview](previews/monodark.svg)                         |
-| [`monokai`](colors/monokai.lua?raw=1)                               | ![monokai_preview](previews/monokai.svg)                           |
-| [`monokai-pro-classic`](colors/monokai-pro-classic.lua?raw=1)       | ![monokai-pro-classic_preview](previews/monokai-pro-classic.svg)   |
-| [`monokai-sublime`](colors/monokai-sublime.lua?raw=1)               | ![monokai-sublime_preview](previews/monokai-sublime.svg)           |
-| [`nord`](colors/nord.lua?raw=1)                                     | ![nord_preview](previews/nord.svg)                                 |
-| [`onedark`](colors/onedark.lua?raw=1)                               | ![onedark_preview](previews/onedark.svg)                           |
-| [`only_dark`](colors/only_dark.lua?raw=1)                           | ![only_dark_preview](previews/only_dark.svg)                       |
-| [`plasma`](colors/plasma.lua?raw=1)                                 | ![plasma_preview](previews/plasma.svg)                             |
-| [`predawn`](colors/predawn.lua?raw=1)                               | ![predawn_preview](previews/predawn.svg)                           |
-| [`rose-pine`](colors/rose-pine.lua?raw=1)                           | ![rose-pine_preview](previews/rose-pine.svg)                       |
-| [`rose-pine-moon`](colors/rose-pine-moon.lua?raw=1)                 | ![rose-pine-moon_preview](previews/rose-pine-moon.svg)             |
-| [`solarized_dark`](colors/solarized_dark.lua?raw=1)                 | ![solarized_dark_preview](previews/solarized_dark.svg)             |
-| [`synthwave`](colors/synthwave.lua?raw=1)                           | ![synthwave_preview](previews/synthwave.svg)                       |
-| [`tokyo-night`](colors/tokyo-night.lua?raw=1)                       | ![tokyo-night_preview](previews/tokyo-night.svg)                   |
-| [`vscode-dark`](colors/vscode-dark.lua?raw=1)                       | ![vscode-dark_preview](previews/vscode-dark.svg)                   |
-| [`winter`](colors/winter.lua?raw=1)                                 | ![winter_preview](previews/winter.svg)                             |
-| [`zenburn`](colors/zenburn.lua?raw=1)                               | ![zenburn_preview](previews/zenburn.svg)                           |
+| Theme                                                                     | Preview                                                                      |
+| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [`abyss`](colors/abyss.lua?raw=1)                                         | ![abyss_preview](previews/abyss.svg)                                         |
+| [`ayu-dark`](https://github.com/juliardi/lite-xl-ayu-theme.git)\*         | ![ayu-dark_preview](previews/ayu-dark.svg)                                   |
+| [`ayu-mirage`](https://github.com/juliardi/lite-xl-ayu-theme.git)\*       | ![ayu-mirage_preview](previews/ayu-mirage.svg)                               |
+| [`Bearded Theme Vivid Black`](colors/bearded-theme-vivid-black.lua?raw=1) | ![bearded-theme-vivid-black_preview](previews/bearded-theme-vivid-black.svg) |
+| [`betelgeuse`](colors/betelgeuse.lua?raw=1)                               | ![betelgeuse_preview](previews/betelgeuse.svg)                               |
+| [`c0mfy`](colors/c0mfy.lua?raw=1)                                         | ![c0mfy_preview](previews/c0mfy.svg)                                         |
+| [`catppuccin-frappe`](colors/catppuccin-frappe.lua?raw=1)                 | ![catppuccin-frappe_preview](previews/catppuccin-frappe.svg)                 |
+| [`catppuccin-macchiato`](colors/catppuccin-macchiato.lua?raw=1)           | ![catppuccin-macchiato_preview](previews/catppuccin-macchiato.svg)           |
+| [`catppuccin-mocha`](colors/catppuccin-mocha.lua?raw=1)                   | ![catppuccin-mocha_preview](previews/catppuccin-mocha.svg)                   |
+| [`cold_lime`](colors/cold_lime.lua?raw=1)                                 | ![cold_lime_preview](previews/cold_lime.svg)                                 |
+| [`dracula`](colors/dracula.lua?raw=1)                                     | ![dracula_preview](previews/dracula.svg)                                     |
+| [`duorand`](colors/duorand.lua?raw=1)                                     | ![duorand_preview](previews/duorand.svg)                                     |
+| [`duotone`](colors/duotone.lua?raw=1)                                     | ![duotone_preview](previews/duotone.svg)                                     |
+| [`everforest`](colors/everforest.lua?raw=1)                               | ![everforest_preview](previews/everforest.svg)                               |
+| [`flexoki_dark`](colors/flexoki_dark.lua?raw=1)                           | ![flexoki_dark_preview](previews/flexoki_dark.svg)                           |
+| [`github-dark-dimmed`](colors/github-dark-dimmed.lua?raw=1)               | ![github-dark-dimmed_preview](previews/github-dark-dimmed.svg)               |
+| [`github_dark`](colors/github_dark.lua?raw=1)                             | ![github_dark_preview](previews/github_dark.svg)                             |
+| [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1)                           | ![gruvbox_dark_preview](previews/gruvbox_dark.svg)                           |
+| [`jb-fleet`](colors/jb-fleet.lua?raw=1)                                   | ![jb-fleet_preview](previews/jb-fleet.svg)                                   |
+| [`jellybeans`](colors/jellybeans.lua?raw=1)                               | ![jellybeans_preview](previews/jellybeans.svg)                               |
+| [`liqube`](colors/liqube.lua?raw=1)                                       | ![liqube_preview](previews/liqube.svg)                                       |
+| [`mariana`](colors/mariana.lua?raw=1)                                     | ![mariana_preview](previews/mariana.svg)                                     |
+| [`monodark`](colors/monodark.lua?raw=1)                                   | ![monodark_preview](previews/monodark.svg)                                   |
+| [`monokai`](colors/monokai.lua?raw=1)                                     | ![monokai_preview](previews/monokai.svg)                                     |
+| [`monokai-pro-classic`](colors/monokai-pro-classic.lua?raw=1)             | ![monokai-pro-classic_preview](previews/monokai-pro-classic.svg)             |
+| [`monokai-sublime`](colors/monokai-sublime.lua?raw=1)                     | ![monokai-sublime_preview](previews/monokai-sublime.svg)                     |
+| [`nord`](colors/nord.lua?raw=1)                                           | ![nord_preview](previews/nord.svg)                                           |
+| [`onedark`](colors/onedark.lua?raw=1)                                     | ![onedark_preview](previews/onedark.svg)                                     |
+| [`only_dark`](colors/only_dark.lua?raw=1)                                 | ![only_dark_preview](previews/only_dark.svg)                                 |
+| [`plasma`](colors/plasma.lua?raw=1)                                       | ![plasma_preview](previews/plasma.svg)                                       |
+| [`predawn`](colors/predawn.lua?raw=1)                                     | ![predawn_preview](previews/predawn.svg)                                     |
+| [`rose-pine`](colors/rose-pine.lua?raw=1)                                 | ![rose-pine_preview](previews/rose-pine.svg)                                 |
+| [`rose-pine-moon`](colors/rose-pine-moon.lua?raw=1)                       | ![rose-pine-moon_preview](previews/rose-pine-moon.svg)                       |
+| [`solarized_dark`](colors/solarized_dark.lua?raw=1)                       | ![solarized_dark_preview](previews/solarized_dark.svg)                       |
+| [`synthwave`](colors/synthwave.lua?raw=1)                                 | ![synthwave_preview](previews/synthwave.svg)                                 |
+| [`tokyo-night`](colors/tokyo-night.lua?raw=1)                             | ![tokyo-night_preview](previews/tokyo-night.svg)                             |
+| [`vscode-dark`](colors/vscode-dark.lua?raw=1)                             | ![vscode-dark_preview](previews/vscode-dark.svg)                             |
+| [`winter`](colors/winter.lua?raw=1)                                       | ![winter_preview](previews/winter.svg)                                       |
+| [`zenburn`](colors/zenburn.lua?raw=1)                                     | ![zenburn_preview](previews/zenburn.svg)                                     |
 
 ## Light
 

@@ -518,6 +518,17 @@
          ],
          "type" : "color",
          "version" : "0.1"
+      },
+      {
+         "id" : "focus-theme",
+         "mod_version" : "3.0.0",
+         "name" : "focus-theme",
+         "path" : "colors/focus-theme.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
       }
    ]
 }

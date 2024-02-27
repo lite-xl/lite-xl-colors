@@ -192,7 +192,7 @@
       {
          "id" : "focus",
          "mod_version" : "3.0.0",
-         "name" : "focus-theme",
+         "name" : "focus",
          "path" : "colors/focus.lua",
          "tags" : [
             "dark"

@@ -56,6 +56,7 @@ do not bother modifying it.*
 | [`duotone`](colors/duotone.lua?raw=1)                                     | ![duotone_preview](previews/duotone.svg)                                     |
 | [`everforest`](colors/everforest.lua?raw=1)                               | ![everforest_preview](previews/everforest.svg)                               |
 | [`flexoki_dark`](colors/flexoki_dark.lua?raw=1)                           | ![flexoki_dark_preview](previews/flexoki_dark.svg)                           |
+| [`focus`](colors/focus.lua?raw=1)                                         | ![focus_preview](previews/focus.svg)                                         |
 | [`github-dark-dimmed`](colors/github-dark-dimmed.lua?raw=1)               | ![github-dark-dimmed_preview](previews/github-dark-dimmed.svg)               |
 | [`github_dark`](colors/github_dark.lua?raw=1)                             | ![github_dark_preview](previews/github_dark.svg)                             |
 | [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1)                           | ![gruvbox_dark_preview](previews/gruvbox_dark.svg)                           |

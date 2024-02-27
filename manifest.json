@@ -36,6 +36,17 @@
          ]
       },
       {
+         "id" : "bearded-theme-vivid-black",
+         "mod_version" : "3.0.0",
+         "name" : "Bearded Theme Vivid Black",
+         "path" : "colors/bearded-theme-vivid-black.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "betelgeuse",
          "mod_version" : "3.0.0",
          "name" : "betelgeuse",
@@ -176,6 +187,17 @@
             "light"
          ],
 	 "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "focus",
+         "mod_version" : "3.0.0",
+         "name" : "focus",
+         "path" : "colors/focus.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
          "version" : "0.1"
       },
       {
@@ -502,17 +524,6 @@
          "mod_version" : "3.0.0",
          "name" : "zenburn",
          "path" : "colors/zenburn.lua",
-         "tags" : [
-            "dark"
-         ],
-         "type" : "color",
-         "version" : "0.1"
-      },
-      {
-         "id" : "bearded-theme-vivid-black",
-         "mod_version" : "3.0.0",
-         "name" : "Bearded Theme Vivid Black",
-         "path" : "colors/bearded-theme-vivid-black.lua",
          "tags" : [
             "dark"
          ],

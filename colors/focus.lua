@@ -3,8 +3,6 @@
 local style = require "core.style"
 local common = require "core.common"
 
-style.caret_width = 2
-
 style.background = { common.color "#15212A" }
 style.background2 = { common.color "#10191F" }
 style.background3 = { common.color "#18262FAA" }

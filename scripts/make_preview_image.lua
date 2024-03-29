@@ -1,5 +1,3 @@
-#!/usr/bin/lua
-
 for i, filename in ipairs({ ... }) do
   local name = filename:match("([^\\/]+)%..*$")
 

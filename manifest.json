@@ -14,7 +14,7 @@
       {
          "id": "ayu-dark",
          "remote": "https://github.com/juliardi/lite-xl-ayu-theme.git:33a514527d4870480554771c273e667eb6418873",
-	 "version": "1.0",
+	 "version": "0.1",
          "type": "color",
          "tags": [
             "dark"
@@ -23,7 +23,7 @@
       {
          "id": "ayu-light",
          "remote": "https://github.com/juliardi/lite-xl-ayu-theme.git:33a514527d4870480554771c273e667eb6418873",
-	 "version": "1.0",
+	 "version": "0.1",
          "type": "color",
          "tags": [
             "light"

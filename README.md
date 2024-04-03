@@ -22,6 +22,12 @@ Then, add a call to `core.reload_module` to your user module (the gear in the bo
 core.reload_module("colors.github_dark")
 ```
 
+You can also preview what a color theme looks like with:
+
+```
+lua run everforest --config 'core.reload_module("colors.everforest")'
+```
+
 ### Base16 Themes
 
 `@SmileYzn` has created a theme manager for base16 themes as a plugin. Please see [here](https://github.com/SmileYzn/base16), if you'd like to install a base16 theme.

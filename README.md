@@ -25,7 +25,7 @@ core.reload_module("colors.github_dark")
 You can also preview what a color theme looks like with:
 
 ```
-lua run everforest --config 'core.reload_module("colors.everforest")'
+lpm run everforest --config 'core.reload_module("colors.everforest")'
 ```
 
 ### Base16 Themes

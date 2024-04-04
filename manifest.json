@@ -280,6 +280,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "justperfect",
+         "mod_version" : "3.0.0",
+         "name" : "justperfect",
+         "remote": "https://github.com/RohanVashisht1234/justperfect:186d718c7b18cd82aa294a651471513ec74e88c8",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "liqube",
          "mod_version" : "3.0.0",
          "name" : "liqube",

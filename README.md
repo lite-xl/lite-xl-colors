@@ -68,6 +68,7 @@ do not bother modifying it.*
 | [`gruvbox_dark`](colors/gruvbox_dark.lua?raw=1)                           | ![gruvbox_dark_preview](previews/gruvbox_dark.svg)                           |
 | [`jb-fleet`](colors/jb-fleet.lua?raw=1)                                   | ![jb-fleet_preview](previews/jb-fleet.svg)                                   |
 | [`jellybeans`](colors/jellybeans.lua?raw=1)                               | ![jellybeans_preview](previews/jellybeans.svg)                               |
+| [`justperfect`](https://github.com/RohanVashisht1234/justperfect)\*       | ![justperfect_preview](previews/justperfect.svg)                             |
 | [`liqube`](colors/liqube.lua?raw=1)                                       | ![liqube_preview](previews/liqube.svg)                                       |
 | [`mariana`](colors/mariana.lua?raw=1)                                     | ![mariana_preview](previews/mariana.svg)                                     |
 | [`monodark`](colors/monodark.lua?raw=1)                                   | ![monodark_preview](previews/monodark.svg)                                   |

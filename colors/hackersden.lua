@@ -10,7 +10,7 @@ style.caret = { common.color "#00ed18" }
 style.accent = { common.color "#24ed60" }
 style.dim = { common.color "#02e806" }
 style.divider = { common.color "#00f230" } -- Line between nodes
-style.selection = { common.color "#007a08" }
+style.selection = { common.color "#02cf2154" }
 style.line_number = { common.color "#2bdfff" }
 style.line_number2 = { common.color "#83838f" } -- With cursor
 style.line_highlight = { common.color "#004700a5" }
@@ -41,5 +41,3 @@ style.syntax["function"] = { common.color "#12d7ff" }
 style.log["INFO"]  = { icon = "i", color = style.text }
 style.log["WARN"]  = { icon = "!", color = style.warn }
 style.log["ERROR"] = { icon = "!", color = style.error }
-
-return style

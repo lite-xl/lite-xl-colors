@@ -258,6 +258,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "hackersden",
+         "mod_version" : "3.0.0",
+         "name" : "hackersden",
+         "path" : "colors/hackersden.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "jb-fleet",
          "mod_version" : "3.0.0",
          "name" : "jb-fleet",

@@ -72,6 +72,7 @@ do not bother modifying it.*
 | [justperfect](https://github.com/RohanVashisht1234/justperfect)         | ![justperfect_preview](previews/justperfect.svg)                             |
 | [liqube](colors/liqube.lua?raw=1)                                       | ![liqube_preview](previews/liqube.svg)                                       |
 | [mariana](colors/mariana.lua?raw=1)                                     | ![mariana_preview](previews/mariana.svg)                                     |
+| [mobilephone](colors/mobilephone.lua?raw=1)                             | ![mobilephone_preview](previews/mobilephone.svg)                             |
 | [monodark](colors/monodark.lua?raw=1)                                   | ![monodark_preview](previews/monodark.svg)                                   |
 | [monokai](colors/monokai.lua?raw=1)                                     | ![monokai_preview](previews/monokai.svg)                                     |
 | [monokai-pro-classic](colors/monokai-pro-classic.lua?raw=1)             | ![monokai-pro-classic_preview](previews/monokai-pro-classic.svg)             |

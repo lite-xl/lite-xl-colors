@@ -19,9 +19,9 @@ jobs:
           perl -pi -e 'exit(0) if $_ =~ m/^\-\-\-/' README.md
           echo "---" >> README.md
           echo -e "\n## Dark\n" >> README.md
-          ./lpm-latest list --repository . --type color --tag "dark" --table 'url,{string.format("![%s_preview](previews/%s.svg)", addon.id,addon.id)}' --type color --header Theme,Preview >> README.md
+          ./lpm-latest list --repository . --type color --tag "dark" --table '{{string.format("[%s](%s)", addon.id, addon.url)}},{{string.format("![%s_preview](previews/%s.svg)", addon.id,addon.id)}}' --type color --header Theme,Preview >> README.md
           echo -e "\n## Light\n" >> README.md
-          ./lpm-latest list --repository . --type color --tag "light" --table 'url,{string.format("![%s_preview](previews/%s.svg)", addon.id,addon.id)}' --type color --header Theme,Preview >> README.md
+          ./lpm-latest list --repository . --type color --tag "light" --table '{{string.format("[%s](%s)", addon.id, addon.url)}},{{string.format("![%s_preview](previews/%s.svg)", addon.id,addon.id)}}' --type color --header Theme,Preview >> README.md
           if ! git diff --exit-code -s README.md; then
             git config --global user.name "Github Actions" && git config --global user.email "<>"
             git add README.md previews

@@ -324,6 +324,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "mobilephone",
+         "mod_version" : "3.0.0",
+         "name" : "mobilephone",
+         "path" : "colors/mobilephone.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "moe",
          "mod_version" : "3.0.0",
          "name" : "moe",

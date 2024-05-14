@@ -170,6 +170,17 @@
          "version" : "0.3"
       },
       {
+         "id" : "everforest_light",
+         "mod_version" : "3.0.0",
+         "name" : "everforest_light",
+         "path" : "colors/everforest_light.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "flexoki_dark",
          "mod_version" : "3.0.0",
          "name" : "flexoki_dark",

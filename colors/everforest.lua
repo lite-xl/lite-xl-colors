@@ -13,8 +13,9 @@ style.selection = { common.color "#2E383C"}
 style.line_number = {common.color "#2E383C"}
 style.line_number2 = {common.color "#374145"}
 style.line_highlight = {common.color "#272E33"}
-style.scrollbar = { common.color "#272E33"}
-style.scrollbar2 = { common.color "#272E33"}
+style.scrollbar = { common.color "#4F5B58"}
+style.scrollbar2 = { common.color "#4F5B58"}
+style.scrollbar_track = { common.color "#272E33"}
 
 style.syntax["normal"] = { common.color "#D3C6AA"}
 style.syntax["symbol"] = { common.color "#D3C6AA"}

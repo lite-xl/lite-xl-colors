@@ -97,6 +97,7 @@ do not bother modifying it.*
 | -------------------------------------------------------------- | ---------------------------------------------------------- |
 | [ayu-light](https://github.com/juliardi/lite-xl-ayu-theme.git) | ![ayu-light_preview](previews/ayu-light.svg)               |
 | [catppuccin-latte](colors/catppuccin-latte.lua?raw=1)          | ![catppuccin-latte_preview](previews/catppuccin-latte.svg) |
+| [everforest_light](colors/everforest_light.lua?raw=1)          | ![everforest_light_preview](previews/everforest_light.svg) |
 | [flexoki_light](colors/flexoki_light.lua?raw=1)                | ![flexoki_light_preview](previews/flexoki_light.svg)       |
 | [github](colors/github.lua?raw=1)                              | ![github_preview](previews/github.svg)                     |
 | [gruvbox_light](colors/gruvbox_light.lua?raw=1)                | ![gruvbox_light_preview](previews/gruvbox_light.svg)       |

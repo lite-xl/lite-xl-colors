@@ -324,6 +324,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "litexp",
+         "mod_version" : "3.0.0",
+         "name" : "litexp",
+         "path" : "colors/litexp.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "mariana",
          "mod_version" : "3.0.0",
          "name" : "mariana",

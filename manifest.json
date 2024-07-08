@@ -575,6 +575,17 @@
          ],
          "type" : "color",
          "version" : "0.1"
+      },
+      {
+         "id" : "oxocarbon-dark",
+         "mod_version" : "3.0.0",
+         "name" : "Oxocarbon Dark",
+         "path" : "colors/oxocarbon-dark.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
       }
    ]
 }

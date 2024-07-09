@@ -80,6 +80,7 @@ do not bother modifying it.*
 | [nord](colors/nord.lua?raw=1)                                           | ![nord_preview](previews/nord.svg)                                           |
 | [onedark](colors/onedark.lua?raw=1)                                     | ![onedark_preview](previews/onedark.svg)                                     |
 | [only_dark](colors/only_dark.lua?raw=1)                                 | ![only_dark_preview](previews/only_dark.svg)                                 |
+| [oxocarbon-dark](colors/oxocarbon-dark.lua?raw=1)                       | ![oxocarbon-dark_preview](previews/oxocarbon-dark.svg)                       |
 | [plasma](colors/plasma.lua?raw=1)                                       | ![plasma_preview](previews/plasma.svg)                                       |
 | [predawn](colors/predawn.lua?raw=1)                                     | ![predawn_preview](previews/predawn.svg)                                     |
 | [rose-pine](colors/rose-pine.lua?raw=1)                                 | ![rose-pine_preview](previews/rose-pine.svg)                                 |

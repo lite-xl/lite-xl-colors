@@ -4,22 +4,22 @@
 local style = require "core.style"
 local common = require "core.common"
 
-local base00 = { common.color "#ffffff" }
-local base01 = { common.color "#f2f2f2" }
-local base02 = { common.color "#d0d0d0" }
-local base03 = { common.color "#161616" }
-local base04 = { common.color "#37474F" }
-local base05 = { common.color "#90A4AE" }
-local base06 = { common.color "#525252" }
+local base00 = { common.color "#161616" }
+local base01 = { common.color "#262626" }
+local base02 = { common.color "#393939" }
+local base03 = { common.color "#525252" }
+local base04 = { common.color "#dde1e6" }
+local base05 = { common.color "#f2f4f8" }
+local base06 = { common.color "#ffffff" }
 local base07 = { common.color "#08bdba" }
-local base08 = { common.color "#ff7eb6" }
-local base09 = { common.color "#ee5396" }
-local base10 = { common.color "#FF6F00" }
-local base11 = { common.color "#0f62fe" }
-local base12 = { common.color "#673AB7" }
+local base08 = { common.color "#3ddbd9" }
+local base09 = { common.color "#78a9ff" }
+local base10 = { common.color "#ee5396" }
+local base11 = { common.color "#33b1ff" }
+local base12 = { common.color "#ff7eb6" }
 local base13 = { common.color "#42be65" }
 local base14 = { common.color "#be95ff" }
-local base15 = { common.color "#FFAB91" }
+local base15 = { common.color "#82cfff" }
 
 style.background = base00 -- editor
 style.syntax["normal"] = base06 -- editor text

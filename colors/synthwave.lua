@@ -18,8 +18,8 @@ style.scrollbar2         = { common.color "#717382" }
 style.scrollbar_track    = { common.color "#171521" }
 style.nagbar             = { common.color "#ff79c6" }
 style.nagbar_text        = { common.color "#FFFFFF" }
-style.nagbar_dim         = { common.color "#191824" }
-style.drag_overlay       = { common.color "#191824" }
+style.nagbar_dim         = { common.color "rgba(0, 0, 0, 0.30)" }
+style.drag_overlay       = { common.color "rgba(0, 0, 0, 0.30)" }
 style.drag_overlay_tab   = { common.color "#f17e6e" }
 
 style.syntax["normal"]   = { common.color "#FFFFFF" }

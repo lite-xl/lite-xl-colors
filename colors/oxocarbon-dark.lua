@@ -130,3 +130,9 @@ style.gitstatus_deletion = base10
 style.gitdiff_addition = base13
 style.gitdiff_modification = base09
 style.gitdiff_deletion = base10
+
+-- bracketmatch
+style.bracketmatch_color = base06
+style.bracketmatch_char_color = base09
+style.bracketmatch_block_color = base03
+style.bracketmatch_frame_color = base06

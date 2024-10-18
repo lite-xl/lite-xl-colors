@@ -31,9 +31,10 @@ style.syntax["keyword2"] = base09 -- types
 -- style.syntax["keyword3"] = { common.color "#FF000FF" } -- absolutely no idea
 style.syntax["number"] = base09 -- numbers
 style.syntax["literal"] = base04 -- literals
-style.syntax["string"] = base15 -- strings
+style.syntax["string"] = base14 -- strings
 style.syntax["operator"] = base08 -- operators
 style.syntax["function"] = base08  -- functions
+style.syntax["whitespace"] = base02 -- whitespace
 
 style.caret = base06 -- caret
 
@@ -53,6 +54,17 @@ style.divider = base00 -- borders
 
 style.line_number = base03 -- inactive
 style.line_number2 = base04 -- active
+
+style.drag_overlay = { common.color "rgba(0, 0, 0, 0.30)" }
+style.drag_overlay_tab = base03
+
+style.scrollbar = base02 -- scrollbar button when not interacted
+style.scrollbar2 = base02 -- button when you hover over
+style.scrollbar_track = base01 -- scrollbar track
+
+style.nagbar = base09
+style.nagbar_text = base01
+style.nagbar_dim = { common.color "rgba(0, 0, 0, 0)" }
 
 -- Evergreen
 style.syntax["attribute"] = base14
@@ -90,7 +102,7 @@ style.syntax["punctuation.special"] = base08
 style.syntax["repeat"] = base09
 style.syntax["storageclass"] = base09
 style.syntax["storageclass.lifetime"] = base09
-style.syntax["string"] = base13
+style.syntax["string"] = base14
 style.syntax["tag"] = base04
 style.syntax["tag.attribute"] = base14
 style.syntax["tag.delimiter"] = base14
@@ -98,8 +110,8 @@ style.syntax["text.diff.add"] = base07
 style.syntax["text.diff.delete"] = base10
 style.syntax["type"] = base09
 style.syntax["type.builtin"] = base09
-style.syntax["type.definition"] = { common.color "#78a9ff" } -- TODO
-style.syntax["type.qualifier"] = { common.color "#78a9ff" } -- TODO
+style.syntax["type.definition"] = base09 -- unsure
+style.syntax["type.qualifier"] = base09 -- unsure
 style.syntax["variable"] = base04
 style.syntax["variable.builtin"] = base04
 style.syntax["error"] = base08

@@ -34,13 +34,12 @@ style.syntax["literal"] = base04 -- literals
 style.syntax["string"] = base15 -- strings
 style.syntax["operator"] = base08 -- operators
 style.syntax["function"] = base08  -- functions
+style.syntax["whitespace"] = base02 -- whitespace
 
 style.caret = base06 -- caret
 
 style.line_highlight = base01 -- editor line highlighting
 style.selection = base02 -- editor selection
-
-style.bracketmatch_color = base02
 
 style.guide = base02 -- indentation guide
 style.guide_highlighting = base02 -- indentation guide
@@ -55,6 +54,17 @@ style.divider = base00 -- borders
 
 style.line_number = base03 -- inactive
 style.line_number2 = base04 -- active
+
+style.drag_overlay = { common.color "rgba(255, 255, 255, 0.30)" }
+style.drag_overlay_tab = base03
+
+style.scrollbar = base01 -- scrollbar button when not interacted
+style.scrollbar2 = base03 -- button when you hover over
+style.scrollbar_track = base01 -- scrollbar track
+
+style.nagbar = base10
+style.nagbar_text = base01
+style.nagbar_dim = { common.color "rgba(0, 0, 0, 0)" }
 
 -- Evergreen
 style.syntax["attribute"] = base14

@@ -64,7 +64,7 @@ style.scrollbar_track = base01 -- scrollbar track
 
 style.nagbar = base10
 style.nagbar_text = base01
-style.nagbar_dim = { common.color "rgba(0, 0, 0, 0)" }
+style.nagbar_dim = { common.color "rgba(0, 0, 0, 0.30)" }
 
 -- Evergreen
 style.syntax["attribute"] = base14

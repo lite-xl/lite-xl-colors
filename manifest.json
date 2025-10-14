@@ -390,10 +390,10 @@
          "version" : "0.1"
       },
       {
-         "id" : "monokai-pro-classic",
+         "id" : "monokai-classic",
          "mod_version" : "3.0.0",
-         "name" : "monokai-pro-classic",
-         "path" : "colors/monokai-pro-classic.lua",
+         "name" : "monokai-classic",
+         "path" : "colors/monokai-classic.lua",
          "tags" : [
             "dark"
          ],

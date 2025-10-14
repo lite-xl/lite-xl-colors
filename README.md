@@ -75,7 +75,7 @@ do not bother modifying it.*
 | [mobilephone](colors/mobilephone.lua?raw=1)                             | ![mobilephone_preview](previews/mobilephone.svg)                             |
 | [monodark](colors/monodark.lua?raw=1)                                   | ![monodark_preview](previews/monodark.svg)                                   |
 | [monokai](colors/monokai.lua?raw=1)                                     | ![monokai_preview](previews/monokai.svg)                                     |
-| [monokai-pro-classic](colors/monokai-pro-classic.lua?raw=1)             | ![monokai-pro-classic_preview](previews/monokai-pro-classic.svg)             |
+| [monokai-classic](colors/monokai-classic.lua?raw=1)                     | ![monokai-classic_preview](previews/monokai-classic.svg)                     |
 | [monokai-sublime](colors/monokai-sublime.lua?raw=1)                     | ![monokai-sublime_preview](previews/monokai-sublime.svg)                     |
 | [nord](colors/nord.lua?raw=1)                                           | ![nord_preview](previews/nord.svg)                                           |
 | [onedark](colors/onedark.lua?raw=1)                                     | ![onedark_preview](previews/onedark.svg)                                     |

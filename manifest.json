@@ -456,6 +456,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "peaceful-nightshade",
+         "mod_version" : "3.0.0",
+         "name" : "Peaceful Nightshade",
+         "path" : "colors/peaceful-nightshade.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "1.0"
+      },
+      {
          "id" : "plasma",
          "mod_version" : "3.0.0",
          "name" : "plasma",

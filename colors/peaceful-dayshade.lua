@@ -21,6 +21,9 @@ style.scrollbar       = { common.color ("#b2b8d6") } -- Scrollbar
 style.scrollbar2      = { common.color ("#9298bb") } -- Scrollbar hovered
 style.scrollbar_track = { common.color (bg_dark) }   -- Scrollbar track
 
+style.drag_overlay     = { common.color(highlight .. "33") }
+style.drag_overlay_tab = { common.color(highlight) }
+
 style.syntax["normal"]   = { common.color (normal) }
 style.syntax["symbol"]   = { common.color (normal) }
 style.syntax["comment"]  = { common.color ("#8b3a8b") }

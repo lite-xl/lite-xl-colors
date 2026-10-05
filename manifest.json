@@ -456,6 +456,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "peaceful-dayshade",
+         "mod_version" : "3.0.0",
+         "name" : "Peaceful Dayshade",
+         "path" : "colors/peaceful-dayshade.lua",
+         "tags" : [
+            "light"
+         ],
+         "type" : "color",
+         "version" : "1.0"
+      },
+      {
          "id" : "peaceful-nightshade",
          "mod_version" : "3.0.0",
          "name" : "Peaceful Nightshade",

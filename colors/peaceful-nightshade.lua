@@ -1,20 +1,21 @@
 local style  = require "core.style"
 local common = require "core.common"
 
-local normal  = "#c2ccf5"
-local bg_dark = "#1a1e2e"
+local normal    = "#c2ccf5"
+local bg_dark   = "#1a1e2e"
+local highlight = "#bb9af7"
 
 style.background      = { common.color ("#24283b") } -- Editor background
 style.background2     = { common.color ("#1f2335") } -- Panels, trees, input areas
 style.background3     = { common.color (bg_dark) }   -- Darker contrast elements
 style.text            = { common.color (normal) }    -- Primary text
 style.caret           = { common.color ("#e05fa0") } -- Cursor
-style.accent          = { common.color ("#bb9af7") } -- Active accents, autocomplete highlight
+style.accent          = { common.color (highlight) } -- Active accents, autocomplete highlight
 style.dim             = { common.color ("#636da6") } -- Inactive tabs, dim labels
-style.divider         = { common.color (bg_dark)   } -- Split pane borders
+style.divider         = { common.color (bg_dark) }   -- Split pane borders
 style.selection       = { common.color ("#2d3f76") } -- Selected text background
 style.line_number     = { common.color ("#444a73") } -- Inactive line numbers
-style.line_number2    = { common.color ("#bb9af7") } -- Active line number (caret line)
+style.line_number2    = { common.color (highlight) } -- Active line number (caret line)
 style.line_highlight  = { common.color ("#2f334d") } -- Current line highlight
 style.scrollbar       = { common.color ("#3b4261") } -- Scrollbar
 style.scrollbar2      = { common.color ("#545c7e") } -- Scrollbar hovered

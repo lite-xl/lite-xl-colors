@@ -247,6 +247,17 @@
          "version" : "0.1"
       },
       {
+         "id" : "gruber_darker",
+         "mod_version" : "3.0.0",
+         "name" : "gruber_darker",
+         "path" : "colors/gruber_darker.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
          "id" : "gruvbox_dark",
          "mod_version" : "3.0.0",
          "name" : "gruvbox_dark",
@@ -405,6 +416,17 @@
          "mod_version" : "3.0.0",
          "name" : "nord",
          "path" : "colors/nord.lua",
+         "tags" : [
+            "dark"
+         ],
+         "type" : "color",
+         "version" : "0.1"
+      },
+      {
+         "id" : "one_candy",
+         "mod_version" : "3.0.0",
+         "name" : "one_candy",
+         "path" : "colors/one_candy.lua",
          "tags" : [
             "dark"
          ],
